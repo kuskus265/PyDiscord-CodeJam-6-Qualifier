@@ -1,4 +1,4 @@
-# Code Jam 6: Qualifier
+# Code Jam 6: Qualifier [PASSED]
 
 - **Deadline:** 2020-01-10 12:00 UTC
 
